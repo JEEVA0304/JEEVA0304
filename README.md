@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🎓 Final Year B.E. Student | 🤖 AI/ML Engineer | ⚡ C++ Systems Developer
+### 🎓  B.E.ECE | 🤖 AI/ML Engineer | ⚡ C++ Systems Developer
 
 *Building intelligent systems with performance at the core*
 
